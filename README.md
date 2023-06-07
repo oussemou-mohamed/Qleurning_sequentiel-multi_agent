@@ -20,12 +20,17 @@ Exploitation : Une fois que l'apprentissage est terminé, l'agent peut utiliser 
 
 L'algorithme du Q-learning est un processus itératif qui permet à l'agent d'apprendre par essais et erreurs à partir des interactions avec l'environnement. Il peut être utilisé pour résoudre des problèmes d'apprentissage par renforcement tels que les jeux, la robotique, la planification de trajectoires, etc.
 <h1>L'implémentation de cas Séquentiel:</h1>
+
+https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/a3331c6e-96d4-49d3-97c4-ede6185b1e63
 <h1>Cas multi agents:</h1>
 On va démarrer plusieurs agents qui vont exécuter l'algorithme, et ils vont donner leur meilleur résultat au maître du jeu.
 ![image](https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/73be0da8-93cd-413b-9d7d-93e73db000fd)
 <h1>L'implémentation de cas multi agents:</h1>
 
 
-https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/a3331c6e-96d4-49d3-97c4-ede6185b1e63
+https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/5d2de030-f317-46c2-99c1-927c781ab26b
+
+
+
 
 
