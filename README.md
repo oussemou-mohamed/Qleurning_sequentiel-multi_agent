@@ -24,7 +24,9 @@ L'algorithme du Q-learning est un processus itératif qui permet à l'agent d'ap
 https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/a3331c6e-96d4-49d3-97c4-ede6185b1e63
 <h1>Cas multi agents:</h1>
 On va démarrer plusieurs agents qui vont exécuter l'algorithme, et ils vont donner leur meilleur résultat au maître du jeu.
-![image](https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/73be0da8-93cd-413b-9d7d-93e73db000fd)
+![1_EtWIjfFjiyHkS12sCZAGrA (1)](https://github.com/oussemou-mohamed/Qleurning_sequentiel-multi_agent/assets/123418439/95238c74-6bff-4cc0-bfb5-33e5d771caaa)
+
+
 <h1>L'implémentation de cas multi agents:</h1>
 
 
